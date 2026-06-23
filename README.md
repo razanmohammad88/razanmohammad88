@@ -1,6 +1,6 @@
 # Hi there, I'm Razan! 👋
 
-I am a **Computer Science & Information student** passionate about building impactful software, exploring open-source ecosystems, and diving into tech. Welcome to my digital space!
+I am a **Computer Science & Information Technology student** passionate about building impactful software, exploring open-source ecosystems, and diving into tech. Welcome to my digital space!
 
 ---
 
@@ -39,15 +39,14 @@ I am a **Computer Science & Information student** passionate about building impa
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Razan's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?razanmohammad88=RAZANMOHAMMAD88&show_icons=true&theme=tokyonight" alt="Razan's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?razanmohammad88=RAZANMOHAMMAD88&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
 ---
 
 ## 📬 Connect With Me
 
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* **Email:** your.email@example.com
+* **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/razan-mohammad-)
+* **Email:** razan.moh507@gmail.com
 
-⭐️ *Feel free to star my repositories if you find something useful!*
