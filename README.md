@@ -51,6 +51,6 @@ I am an **AI & Data Science student** passionate about building impactful softwa
 
 ## 📬 Connect With Me
 
-* **LinkedIn:** [www.linkedin.com/in/razan-mohammad-](www.linkedin.com/in/razan-mohammad-)
+* **LinkedIn:** [www.linkedin.com/in/razan-mohammad-]([www.linkedin.com/in/razan-mohammad-](https://www.linkedin.com/in/razan-mohammad-/))
 * **Email:** razan.moh507@gmail.com
 
